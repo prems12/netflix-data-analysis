@@ -8,6 +8,6 @@ This project analyzes Netflix movies and TV shows.
 3. Run the code in `notebooks/netflix_analysis.ipynb`.
 
 ## Insights
-- Movies are more common than TV shows.
+- Movies are more watched/common than TV shows.
 - Dramas and Comedies are the most popular genres.
-- The US produces the most content.
+- US produces the most content.
